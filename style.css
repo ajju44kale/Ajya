@@ -1,4 +1,4 @@
-/* body{
+body{
     background-color: wheat;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
@@ -28,8 +28,8 @@ button{
 }
 textarea{
     color: rgb(0, 0, 0);
-} */
- /* *{
+}
+*{
     font-family: 'Courier New', Courier, monospace;
  }
 h1{
@@ -48,9 +48,7 @@ div p{
 p+h3{
     text-decoration: underline;
 }
- */
-
- /* #mainTopic{
+ #mainTopic{
     color: blue;
  }
  *{
@@ -79,8 +77,8 @@ p+h3{
  }
 #yes:checked+label{
     color: darkgreen;
-} */
-/* *{
+} 
+*{
     background-color: darkkhaki;
 }
 #outer{
